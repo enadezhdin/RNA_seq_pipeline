@@ -1,1 +1,2 @@
 # RNA_seq_pipeline
+This is working directory for the current version of the RNA Seq analysis pipeline. The pipeline built based on Illumina MYSeq 500 reads analysis. Salmon software used for the reads pseudomapping, and DESeq2 for differential gene expression modelling and analysis.
