@@ -14,7 +14,4 @@ print (len(files))
 for file in files:
     strain = os.path.basename(file).split("_")[1]
     print(strain)
-
-
-
-
+    
