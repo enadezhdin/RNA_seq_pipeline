@@ -15,4 +15,3 @@ print(len(files))
 for file in files:
    subprocess.call(['fastqc', file])
     #print(file)
-
